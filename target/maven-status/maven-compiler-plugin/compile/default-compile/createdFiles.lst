@@ -1,0 +1,4 @@
+com\hassanb\jaxrs\model\Person.class
+com\hassanb\jaxrs\model\Response.class
+com\hassanb\jaxrs\service\PersonServiceImpl.class
+com\hassanb\jaxrs\service\PersonService.class
